@@ -8,11 +8,10 @@ Users will be able to shop for the apperal they want through this e-commerce app
 - [ ] Users are able to browse different apperal
 - [ ] Users can edit, add, or delete items from shopping cart
 - [ ] Users can checkout order
-- [ ] Users can favorite items
+
 ## Pages
 - [ ]  Home Page
 - [ ]  Login/create acct. page
-- [ ]  Favorite page
 - [ ]  Cart page
 - [ ]  Shopping page
 - [ ]  FAQ page
@@ -20,5 +19,8 @@ Users will be able to shop for the apperal they want through this e-commerce app
 ## Database Contains
 - [ ]  User info
 - [ ]  Cart info
-- [ ] Favorites info
+
+## Future Ideas
+- [ ] Add favorites option
+- [ ] Add reviews
 
